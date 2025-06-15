@@ -58,7 +58,7 @@ embedded-waste-separator/
 ├── README.md                  # Project documentation
 ├── LICENSE                    # MIT License
 └── images/
-    └── system_setup.jpg       # AI-generated visual of final system
+    └── system_setup.png       # AI-generated visual of final system
 ```
 
 ## 💡 Real-World Applications
