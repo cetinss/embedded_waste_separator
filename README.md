@@ -68,7 +68,7 @@ embedded-waste-separator/
 - 🏭 Scalable prototypes for industrial waste stream automation
 
 
-👩‍💻 Project by **Sena Çetin** , **Suden Ocak** , **Hatice Kübra Alaca** , **Elif Beyza Ötoprak** , **Efe Şarlıoğlu**
+👩‍💻 Project by **Sena Çetin** , **Suden Ocak** , **Hatice Kübra Alaca** , **Elif Beyza Öztoprak** , **Efe Şarlıoğlu**
 📚 INF208 – Eingebettete Systeme (Turkish-German University, 2025)
 
 > “Waste that is sorted is waste that is valuable.”
