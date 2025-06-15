@@ -4,7 +4,7 @@ An intelligent, real-time trash classification system developed using **Raspberr
 > 🚀 Developed as a final project for **INF208 – Eingebettete Systeme** (Embedded Systems).
 
 ## 📷 System Overview
-![System Setup](images/system_setup.jpg)
+![System Setup](images/system_setup.png)
 
 ## 🌍 Why This Project Matters
 In today's world, waste separation is essential for environmental sustainability. However, manual sorting is time-consuming, error-prone, and labor-intensive.  
