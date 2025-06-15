@@ -37,7 +37,7 @@ This is more than just a student project — it's a model for the **future of ec
 ## ⚙️ Installation & Usage
 ### 🔽 Step 1 – Clone the Repository
 ```bash
-git clone https://github.com/cetinss/embedded-waste-separator.git
+git clone https://github.com/cetinss/embedded_waste_separator.git
 cd embedded-waste-separator
 ```
 ### 🛠️ Step 2 – Install Dependencies
